@@ -1,3 +1,4 @@
+> Скопировано с [https://github.com/thinknetica/workshop_scaling/tree/master/day1](https://github.com/thinknetica/workshop_scaling/tree/master/day1)
 
 
 ## День 1
